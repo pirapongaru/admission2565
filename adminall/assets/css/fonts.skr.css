@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=K2D&display=swap&subset=thai');
+
+*{
+    font-family: 'K2D', sans-serif;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'K2D', sans-serif;
+}
+
